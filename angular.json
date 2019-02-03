@@ -27,7 +27,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/bulma/bulma.sass",
+              "node_modules/font-awesome/scss/font-awesome.scss"
             ],
             "scripts": [],
             "es5BrowserSupport": true
