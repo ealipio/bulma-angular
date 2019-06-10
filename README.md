@@ -1,7 +1,7 @@
-## Bulma - angular 7
+## Bulma - angular 8
 this project use:
 
-* angular 7 
+* angular 8
 * Bulma as CSS Framework ( see https://bulma.io/)
 * Font Awesome for icons
 
